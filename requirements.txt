@@ -1,0 +1,11 @@
+# Requirements for voice_diffusion project
+torch
+diffusers==0.34.0
+transformers==4.53.0
+librosa==0.11.0
+soundfile==0.13.1
+pydub
+gradio
+
+
+scipy==1.16.0
