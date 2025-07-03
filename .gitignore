@@ -9,3 +9,6 @@ build/
 *.log
 .ipynb_checkpoints/
 .DS_Store
+.idea
+.vscode/
+*.wav
